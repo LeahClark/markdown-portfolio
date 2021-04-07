@@ -1,1 +1,1 @@
-Replace this with your name, and include a header.
+# Leah Clark's super sweet portfolio project
